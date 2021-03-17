@@ -7,7 +7,9 @@ ns: NETWORK
 // 0xBABEC9E69A91C57B 0x8011247F
 void NETWORK_SET_VOICE_ACTIVE(BOOL toggle);
 ```
-
+```
+Enables or Disables the player's voice chat.
+```
 
 ## Parameters
 * **toggle**: 
